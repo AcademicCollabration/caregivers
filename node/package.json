@@ -1,0 +1,14 @@
+{
+  "name": "webisproject",
+  "version": "1.0.0",
+  "description": "This is the project for my web information subject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sampath , Sravya , Abhishekh",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^2.2.3"
+  }
+}
